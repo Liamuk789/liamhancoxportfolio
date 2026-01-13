@@ -15,7 +15,7 @@
 <h2 align="center"> About Me</h2>
 
 <p align="center">
-  <img src="images/Me.jpg" alt="Profile Picture" width="300"><br>
+  <img src="Images/Me.jpg" alt="Profile Picture" width="300"><br>
 </p>
 
 

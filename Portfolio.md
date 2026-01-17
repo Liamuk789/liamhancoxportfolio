@@ -96,33 +96,31 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
         <div align="center">UI</div>
     </th>
     <th width="33%">
-        <div align="center">RC-Car device</div>
+        <div align="center">RC-Car Mechanics</div>
     </th>
   </tr>
   <tr>
     <td valign="top">
       <ul>
-        <li>State-Driven feed management</li>
-        <li>Camera Switching</li>
-        <li>Enabling and disabling of camera feeds</li>
-        <li>Capture of last frame for faux live-feed effect</li>
-        <li>Ability to interact with various elements of the game world.</li>
+        <li><b>State-Driven Management:</b> Handling of active/inactive states for multiple camera feeds</li>
+        <li><b>Camera Switching:</b> Transition logic between security cameras, devices and player</li>
+        <li><b>Faux Live-Feed:</b> Enabling and disabling of camera feeds with capture of last frame to simulate multiple live camera feeds</li>
+        <li><b>Interactivity:</b> Raycasts to give the ability to interact with various elements of the game world.</li>
       </ul>
     </td>
     <td valign="top" >
       <ul>
-        <li>Monitor screens update based on state (Online, Offline and Active)</li>
-        <li>Camera feed information updates to current camera</li>
-        <li>HUD management</li>
-        <li>Dynamic crosshair feedback</li>
+        <li><b>Diegetic Monitors:</b> In world screens dynamically update based on state (Online, Offline and Active)</li>
+        <li><b>Contextual HUD:</b> Camera feed information updates to current camera</li>
+        <li><b>Dynamic crosshair:</b> Visual feedback when hovering over interactive game objects</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li>Physics based vehicle controller</li>
-        <li>Possession mechanics</li>
-        <li>State based input isolation</li>
-        <li>Model created in 3DSMax</li>
+        <li><b>Physics Based Vehicle Controller:</b> Rigidbody based movement</li>
+        <li><b>Possession System:</b> Camera transition and control handover from camera to device</li>
+        <li><b>Input Isolation:</b> State-machine logic to prevent  </li>
+        <li><b>Asset Creation:</b> Model for RC-Car created in 3DSMax</li>
       </ul>
     </td>
   </tr>
@@ -210,13 +208,11 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
         <li><b>Dual-Layer Grid:</b> Separate influence maps for "Food" (Red) and "Exploration" (Blue) trails.</li>
         <li><b>Custom A* Pathfinding:</b> Modified heuristic to weight pheromone trails as "cheaper" paths.</li>
         <li><b>Decay Simulation:</b> Time-based evaporation of trails to prevent loops.</li>
-        <li><b>Gizmo Visualization:</b> Debug tools to visualize invisible scent data.</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
         <li><b>Object Pooling:</b> Queue-based system managing 1000+ active agents with auto-expansion.</li>
-        <li><b>Staggered Spawning:</b> Coroutine-based instantiation to prevent frame spikes.</li>
         <li><b>Polymorphism:</b> Abstract 'Ant' base class handling shared navigation logic.</li>
       </ul>
     </td>

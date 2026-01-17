@@ -131,7 +131,7 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
 <br>
 
 <a href="https://gist.github.com/Liamuk789/55517f5c43a5868393c080249b2e6bac">
-  <img src="https://img.shields.io/badge/Code_Snippets-181717?style=for-the-badge&logo=github&logoColor=white" height="80" width="500" />
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="60" width="300" />
 </a>
 
 </div>
@@ -139,15 +139,102 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
 
 **Engine and Tools :** Unity, GIT
 
-### 2. [Project Name Two](Link to Repo)
-> *A brief 1-sentence tagline about the game/project.*
+<br>
+<br>
+<br>
+<br>
 
-**What I did:**
-* Created custom shaders for water effects.
-* Managed enemy AI state machines.
-* **Tech Stack:** Unreal Engine, Blueprints, C++.
+# Ant Colony (2025)
 
-[**View Demo**](Link) | [**Source Code**](Link)
+***Ant Colony*** is a simulation project exploring emergent behavior, where autonomous agents utilise pheromone trails, A* Pathfinding logic and state-machine logic to gather resources and return them to the nest. Developed solo in **Unity** over a 6-week cycle.
+
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="Images/AntColony/ExplorePheroEdit.gif" alt="Explorer Edit Mode" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/AntColony/AntFoodPheroReturn.gif" alt="Food Return Logic" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/AntColony/WorkerEdit.gif" alt="Worker Edit Mode" width="100%" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%" align="center">
+      <img src="Images/AntColony/ExplorePheroGame.gif" alt="Explorer Game Mode" width="100%" />
+    </td>
+    <td width="33%">
+      </td>
+    <td width="33%" align="center">
+      <img src="Images/AntColony/WorkerGame.gif" alt="Worker Game Mode" width="100%" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<h2><div align="center">Contributions</div></h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th width="33%">
+        <div align="center">AI & Agent Logic</div>
+    </th>
+    <th width="33%">
+        <div align="center">Pheromone Grid System</div>
+    </th>
+    <th width="33%">
+        <div align="center">Optimization & Architecture</div>
+    </th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><b>Hierarchical State Machine:</b> Distinct logic for Explorer vs. Worker roles.</li>
+        <li><b>Sensory System:</b> "Antennae" raycasts verify pheromone intensity (Left/Right/Forward).</li>
+        <li><b>Reactive Mobilization:</b> Nest only spawns Workers after Explorers confirm food location.</li>
+        <li><b>Smart Wander:</b> Agents prioritize unexplored grid nodes to maximize efficiency.</li>
+      </ul>
+    </td>
+    <td valign="top" >
+      <ul>
+        <li><b>Dual-Layer Grid:</b> Separate influence maps for "Food" (Red) and "Exploration" (Blue) trails.</li>
+        <li><b>Custom A* Pathfinding:</b> Modified heuristic to weight pheromone trails as "cheaper" paths.</li>
+        <li><b>Decay Simulation:</b> Time-based evaporation of trails to prevent loops.</li>
+        <li><b>Gizmo Visualization:</b> Debug tools to visualize invisible scent data.</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Object Pooling:</b> Queue-based system managing 1000+ active agents with auto-expansion.</li>
+        <li><b>Staggered Spawning:</b> Coroutine-based instantiation to prevent frame spikes.</li>
+        <li><b>Polymorphism:</b> Abstract 'Ant' base class handling shared navigation logic.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+</div>
+
+<p align="center">
+  <a href="INSERT_LINK_HERE">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="60" width="300" />
+  </a>
+</p>
+
+**Engine and Tools :** Unity, C#
+<br>
 
 ---
 

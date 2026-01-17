@@ -25,9 +25,7 @@ I am a 3rd year mature student studying Computer Games Design and Development at
 
 Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** and **Unity**.
 
-*  I’m currently working on: **[Name of current project]**
-*  I’m currently learning: **Unreal Engine 5 & C++**
-*  Fun fact: **[Insert a fun fact about you]**
+*  I’m currently working on:
 
 ---
 

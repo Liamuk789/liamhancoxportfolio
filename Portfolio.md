@@ -131,7 +131,7 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
 <br>
 
 <a href="https://gist.github.com/Liamuk789/55517f5c43a5868393c080249b2e6bac">
-  <img src="https://img.shields.io/badge/Code_Snippets-181717?style=for-the-badge&logo=github&logoColor=white" height="80" />
+  <img src="https://img.shields.io/badge/Code_Snippets-181717?style=for-the-badge&logo=github&logoColor=white" height="80" width="500" />
 </a>
 
 </div>

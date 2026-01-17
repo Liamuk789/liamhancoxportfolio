@@ -78,9 +78,9 @@ Built within the Unity collaborating as part of a small team.
 <div align="center">
   <img src="Images/BehindTheLens/BTLBanner.png" alt="Title Banner" width="1000" />
   
-  <br /> <img src="Images/BehindTheLens/ScreenUnlock.gif" alt="Screens unlocking" width="400" /> &nbsp;
-  <img src="Images/BehindTheLens/CameraToCar.gif" alt="RC-Car possession" width="400" /> &nbsp;
-  <img src="Images/BehindTheLens/CarBallPushTeleport.gif" alt="Key Item teleporting" width="400" />
+  <br /> <img src="Images/BehindTheLens/ScreenUnlock.gif" alt="Screens unlocking" width="300" /> &nbsp;
+  <img src="Images/BehindTheLens/CameraToCar.gif" alt="RC-Car possession" width="300" /> &nbsp;
+  <img src="Images/BehindTheLens/CarBallPushTeleport.gif" alt="Key Item teleporting" width="300" />
 
 </div>
 

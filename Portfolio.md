@@ -4,9 +4,9 @@
 
 ### A Game Design & Development Student & Aspiring Game Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/liam-hancox)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:liam.hancox1992@gmail.com)
+<br>
+
+<a href="https://www.linkedin.com/in/liam-hancox"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:liam.hancox1992@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" height="40" /></a>
 
 </div>
 
@@ -68,12 +68,9 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
 
 <h1 align="center"> Projects </h1>
 
-# Behind The Lens (2025) #
+# Behind The Lens (2025)
 
-
-Behind the Lens is a First-Person escape room where the player is tasked to find and solve puzzles through the use of security cameras and devices across multiple rooms.
-
-Built within the Unity collaborating as part of a small team.
+***Behind the Lens*** is a first-person escape room where players solve puzzles by controlling security cameras and remote-controlled devices across multiple rooms. Built in **Unity** as part of a collaborative team project utilising **Git** for version control.
 
 <div align="center">
   <img src="Images/BehindTheLens/BTLBanner.png" alt="Title Banner" width="1000" />
@@ -86,7 +83,7 @@ Built within the Unity collaborating as part of a small team.
 
 <br>
 
-<h3><div align="center">Contributions</div></h3>
+<h2><div align="center">Contributions</div></h2>
 
 <div align="center">
 
@@ -108,7 +105,7 @@ Built within the Unity collaborating as part of a small team.
         <li>State-Driven feed management</li>
         <li>Camera Switching</li>
         <li>Enabling and disabling of camera feeds</li>
-        <li>Capture of last frame for faux live-feed</li>
+        <li>Capture of last frame for faux live-feed effect</li>
         <li>Ability to interact with various elements of the game world.</li>
       </ul>
     </td>
@@ -133,11 +130,14 @@ Built within the Unity collaborating as part of a small team.
 
 <br>
 
+<a href="https://gist.github.com/Liamuk789/55517f5c43a5868393c080249b2e6bac">
+  <img src="https://img.shields.io/badge/Code_Snippets-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
+</a>
+
 </div>
 
 
-**Engine :** Unity
-<br>
+**Engine and Tools :** Unity, GIT
 
 ### 2. [Project Name Two](Link to Repo)
 > *A brief 1-sentence tagline about the game/project.*

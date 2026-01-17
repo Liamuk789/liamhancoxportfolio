@@ -119,7 +119,7 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
       <ul>
         <li><b>Physics Based Vehicle Controller:</b> Rigidbody based movement</li>
         <li><b>Possession System:</b> Camera transition and control handover from camera to device</li>
-        <li><b>Input Isolation:</b> State-machine logic to prevent  </li>
+        <li><b>Input Isolation:</b> State-machine logic to prevent input leaking </li>
         <li><b>Asset Creation:</b> Model for RC-Car created in 3DSMax</li>
       </ul>
     </td>

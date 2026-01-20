@@ -71,17 +71,30 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
 ***Behind the Lens*** is a first-person escape room where players solve puzzles by controlling security cameras and remote-controlled devices across multiple rooms. Built in **Unity** as part of a collaborative team project utilising **Git** for version control.
 
 <div align="center">
-  <img src="Images/BehindTheLens/BTLBanner.png" alt="Title Banner" width="1000" />
+  <img src="Images/BehindTheLens/BTLBanner.png" alt="Title Banner" width="100%" />
   
-  <br /> <img src="Images/BehindTheLens/ScreenUnlock.gif" alt="Screens unlocking" width="300" /> &nbsp;
-  <img src="Images/BehindTheLens/CameraToCar.gif" alt="RC-Car possession" width="300" /> &nbsp;
-  <img src="Images/BehindTheLens/CarBallPushTeleport.gif" alt="Key Item teleporting" width="300" />
+  <table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="Images/BehindTheLens/ScreenUnlock.gif" alt="Explorer Edit Mode" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/BehindTheLens/CameraToCar.gif" alt="Food Return Logic" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/BehindTheLens/CarBallPushTeleport.gif" alt="Worker Edit Mode" width="100%" />
+    </td>
+  </tr>
+  </table>
+
+  <br>
+
 
 </div>
 
-<br>
 
-<h2><div align="center">Contributions</div></h2>
+
+<h2 align="center">Contributions</h2>
 
 <div align="center">
 
@@ -127,7 +140,7 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
 <br>
 
 <a href="https://gist.github.com/Liamuk789/55517f5c43a5868393c080249b2e6bac">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="60" width="300" />
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" width="30%" />
 </a>
 
 </div>
@@ -135,10 +148,12 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
 
 **Engine and Tools :** Unity, GIT
 
+---
+
 <br>
 <br>
 <br>
-<br>
+
 
 # Ant Colony (2025)
 
@@ -198,7 +213,7 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
         <li><b>Hierarchical State Machine:</b> Distinct logic for Explorer vs. Worker roles.</li>
         <li><b>Sensory System:</b> "Antennae" raycasts verify pheromone intensity (Left/Right/Forward).</li>
         <li><b>Reactive Mobilization:</b> Nest only spawns Workers after Explorers confirm food location.</li>
-        <li><b>Smart Wander:</b> Agents prioritize unexplored grid nodes to maximize efficiency.</li>
+        <li><b>Smart Wander:</b> Agents prioritise unexplored grid nodes to maximise efficiency.</li>
       </ul>
     </td>
     <td valign="top" >
@@ -223,16 +238,56 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
 
 <p align="center">
   <a href="INSERT_LINK_HERE">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="60" width="300" />
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" width="30%" />
   </a>
 </p>
 
-**Engine and Tools :** Unity, C#
+**Engine and Tools :** Unity, GIT
 <br>
 
 ---
 
+<br>
+<br>
+<br>
 
+
+# Dreadcell (2023)
+
+***Dreadcell*** is a 2D top down survival horror shooter and takes place on a crashed terraforming ship taken over by the parasite "Necra-Worm". Developed within **Unity** as part of a 4 person team.
+
+
+<div align="center">
+  <img src="Images/Dreadcell/MainMenu.png" alt="Main Menu still" width="35%" />
+
+  <table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="Images/Dreadcell/WeaponShowcase.gif" alt="Weapons" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/Dreadcell/Combat.gif" alt="Combat" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/Dreadcell/Death.gif" alt="Death Screen" width="100%" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%" align="center">
+      <img src="Images/Dreadcell/PistolRun.gif" alt="Death Screen" width="100%" />
+    </td>
+    <td width="33%">
+      <img src="Images/Dreadcell/Corridor.gif" alt="Explorer Game Mode" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/Dreadcell/RifleRun.gif" alt="Death Screen" width="100%" />
+    </td>
+  </tr>
+</table>
+
+
+</div>
 
 ## 📫 Connect with me
 * **Email:** [liam.hancox1992@gmail.com](mailto:liam.hancox1992@gmail.com)

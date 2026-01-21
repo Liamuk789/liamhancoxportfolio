@@ -1,6 +1,7 @@
 <div align="center">
 
 # Liam Hancox - Game Developer Portfolio
+### 2023 - 2026
 
 ### A Game Design & Development Student & Aspiring Game Developer
 
@@ -394,10 +395,75 @@ The created animations were :
 
 <br>
 
-<h1 align="center"> Game Jam's (GGJ's) </h1>
+<h1 align="center"> Game Jam's </h1>
 
 # Bubbletro (2025)
 
+<br>
+<br>
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="Images/Bubbletro/Gameplay.gif" alt="Death Screen" width="100%" />
+    </td>
+    <td width="33%">
+      <img src="Images/Bubbletro/SoapAMarket.png" alt="Explorer Game Mode" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
+<br>
+<br>
+
+
+# Tickle Titans (2024)
+
+<br>
+<br>
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="Images/TickleTitans/MainMenu.png" alt="Death Screen" width="100%" />
+    </td>
+    <td width="33%">
+      <img src="Images/TickleTitans/JokeAttack.gif" alt="Explorer Game Mode" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/TickleTitans/Arena.png" alt="Death Screen" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
+<br>
+<br>
+
+# Vac-Man (2024)
+
+<br>
+<br>
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="Images/VacMan/VacAttack.gif" alt="Death Screen" width="100%" />
+    </td>
+    <td width="33%">
+      <img src="Images/VacMan/Console.gif" alt="Explorer Game Mode" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/VacMan/Molecule.gif" alt="Death Screen" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>

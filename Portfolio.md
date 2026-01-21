@@ -243,6 +243,7 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
 </p>
 
 **Engine and Tools :** Unity, GIT
+
 <br>
 
 ---
@@ -254,7 +255,9 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
 
 # Dreadcell (2023)
 
-***Dreadcell*** is a 2D top down survival horror shooter and takes place on a crashed terraforming ship taken over by the parasite "Necra-Worm". Developed within **Unity** as part of a 4 person team.
+***Dreadcell*** is a 2D top down survival horror shooter and takes place on a crashed terraforming ship taken over by the parasite "Necra-Worm". Inspired by the style of EA's "Dead Space". 
+
+Developed within **Unity** as part of a 4 person team.
 
 
 <div align="center">
@@ -272,7 +275,105 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
       <img src="Images/Dreadcell/Death.gif" alt="Death Screen" width="100%" />
     </td>
   </tr>
+  </table>
 
+  <h2><div align="center">Contributions</div></h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th width="33%">
+        <div align="center">Player Mechanics</div>
+    </th>
+    <th width="33%">
+        <div align="center">UI</div>
+    </th>
+    <th width="33%">
+        <div align="center">Audio</div>
+    </th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><b>Movement:</b> Player movement and aiming mouse and keyboard logic.</li>
+        <li><b>Weapon Switching:</b> Weapon switching between the available weapons.</li>
+        <li><b>Shooting:</b> Varied shooting logic for each of the weapons.</li>
+      </ul>
+    </td>
+    <td valign="top" >
+      <ul>
+        <li><b>HUD:</b> Created visual aspects of the players in-game heads up display.</li>
+        <li><b>Health bar:</b> Implemented a UI slider linked to the players health, featuring a dynamic colour gradient that changes based on the remaining health percentage.</li>
+        <li><b>Experience bar:</b> UI slider and counter that tracks player experience count, along with a Tech point counter for future implementation of a tech tree system.</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Splash Screen/Main Menu Music:</b> Sourced royalty free music that compliments the visual aesthetic. Implemented audio logic for the Main Menu, including BGM and button sound effects.</li>
+        <li><b>In-Game SFX:</b> Sourced all audio for weapons, pick-ups etc and implemented the logic to play them at the appropriate times.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+</div>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://gist.github.com/Liamuk789/132432f41814f7d7d5453bd289b31368">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" width="30%" />
+  </a>
+</p>
+
+**Engine and Tools :** Unity, GIT
+
+<br>
+<br>
+
+## Further Works....
+
+After the initial 2D project, I decided to create a 3D prototype of **Dreadcell**.
+
+For this I created a small test scene and produced my own animations for the First-person view model.
+
+These were created using **Blender**
+<br>
+The created animations were :
+
+<table style="width:60%; border:none; margin: 0 auto;">
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
+      <strong>Pistol Equipped</strong>
+      <ul>
+      <li>Idle Animation</li>
+        <li>Walk Animation</li>
+        <li>Run Animation</li>
+        <li>Equip Animation</li>
+        <li>Un-Equip Animation</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top; width: 50%;">
+      <strong>Rifle Equipped</strong>
+      <ul>
+        <li>Idle Animation</li>
+        <li>Walk Animation</li>
+        <li>Run Animation</li>
+        <li>Equip Animation</li>
+        <li>Un-Equip Animation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
+
+<table width="100%">
   <tr>
     <td width="33%" align="center">
       <img src="Images/Dreadcell/PistolRun.gif" alt="Death Screen" width="100%" />
@@ -286,8 +387,22 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
   </tr>
 </table>
 
+<br>
 
-</div>
+**Engine and Tools :** Unity, Blender and GIT
+
+
+<br>
+
+<h1 align="center"> Game Jam's (GGJ's) </h1>
+
+# Bubbletro (2025)
+
+
+<br>
+<br>
+<br>
+<br>
 
 ## 📫 Connect with me
 * **Email:** [liam.hancox1992@gmail.com](mailto:liam.hancox1992@gmail.com)

@@ -350,6 +350,7 @@ For this I created a small test scene and produced my own animations for the Fir
 <br>
 The created animations were :
 
+
 <table style="width:60%; border:none; margin: 0 auto;">
   <tr>
     <td style="vertical-align: top; width: 50%;">
@@ -399,6 +400,7 @@ The created animations were :
 
 
 <br>
+<br>
 
 <h1 align="center"> Game Jam's </h1>
 
@@ -409,6 +411,7 @@ The created animations were :
 <div align="left">
   <img src="Images/GameJam/GGJ00_Logo_Dark.png" alt="GGJ Logo" width="15%" />
 
+<br>
 <br>
 
 The idea behind **Bubbletro** was to create a blend of arcade action-puzzle and rogue-like deck builder where players have to shoot matching coloured bubbles to collect money to spend in-between rounds.
@@ -435,9 +438,7 @@ During development I acted as a flexible team member, assisting with asset integ
 **Engine and Tools :** Unity, GIT
 
 <br>
-<br>
-<br>
-<br>
+
 
 
 # Tickle Titans (2024)
@@ -448,6 +449,7 @@ During development I acted as a flexible team member, assisting with asset integ
 <div align="left">
   <img src="Images/GameJam/GGJ00_Logo_Dark.png" alt="GGJ Logo" width="15%" />
 
+<br>
 <br>
 
 **Tickle Titans** is a third-person arena based Tickle-em-up where the player tickles and fire jokes at their opponent to make them laugh.
@@ -492,7 +494,7 @@ During development I was tasked with asset selection and implementation of chara
   <img src="Images/GameJam/UniGameJam.png" alt="Uni Game Jam logo" width="15%" />
 
 <br>
-
+<br>
 
 **Vac-Man** is a first-person atom collection and molecule builder where the player fly's around space to suck up atoms with a vacuum and deposit them to create nano-molecules.
 

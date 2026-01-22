@@ -34,7 +34,7 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
     <th width="33%"><div align="center">Languages</div></th>
     <th width="33%"><div align="center">Game Engines</div></th>
@@ -42,21 +42,27 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
       <br>
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="45" />
+      <br><br>
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="45" />
+      <br><br>
     </td>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
       <br>
-      <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
+      <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="45" />
+      <br><br>
+      <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" height="45" />
+      <br><br>
     </td>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
       <br>
-      <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/3ds%20max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="45" />
+      <br><br>
+      <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" height="45" />
+      <br><br>
+      <img src="https://img.shields.io/badge/3ds%20max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" height="45" />
+      <br><br>
     </td>
   </tr>
 </table>
@@ -333,15 +339,14 @@ Developed within **Unity** as part of a 4 person team.
 **Engine and Tools :** Unity, GIT
 
 <br>
-<br>
+
 
 ## Further Works....
 
 After the initial 2D project, I decided to create a 3D prototype of **Dreadcell**.
 
-For this I created a small test scene and produced my own animations for the First-person view model.
-
-These were created using **Blender**
+For this I created a small test scene and produced my own animations for the First-person view model created using **Blender**, rigging a skeletal structure and keying the animations for both the arms and weapons.
+ 
 <br>
 The created animations were :
 
@@ -400,10 +405,16 @@ The created animations were :
 # Bubbletro (2025)
 
 <br>
-<br>
+
+<div align="left">
+  <img src="Images/GameJam/GGJ00_Logo_Dark.png" alt="GGJ Logo" width="15%" />
+
 <br>
 
-<table width="100%">
+info here
+
+<div align="center">
+<table width="75%">
   <tr>
     <td width="33%" align="center">
       <img src="Images/Bubbletro/Gameplay.gif" alt="Death Screen" width="100%" />
@@ -423,9 +434,25 @@ The created animations were :
 # Tickle Titans (2024)
 
 <br>
-<br>
+
+
+<div align="left">
+  <img src="Images/GameJam/GGJ00_Logo_Dark.png" alt="GGJ Logo" width="15%" />
+
 <br>
 
+**Tickle Titans** is a third-person arena based Tickle-em-up where the player tickles and fire jokes at their opponent to make them laugh.
+
+This was developed as part of a seven person team using **Unity** for the "Make me laugh" themed Global Game Jam 2024 where we voted as the Institutional Group Winners.
+
+During development I was tasked with asset selection and implementation of character animation.
+
+
+
+
+
+
+<div align="center">
 <table width="100%">
   <tr>
     <td width="33%" align="center">
@@ -439,18 +466,32 @@ The created animations were :
     </td>
   </tr>
 </table>
+</div>
 
 <br>
-<br>
-<br>
+
+**Engine and Tools :** Unity, GIT
+
 <br>
 
 # Vac-Man (2024)
 
 <br>
-<br>
+
+
+<div align="left">
+  <img src="Images/GameJam/UniGameJam.png" alt="Uni Game Jam logo" width="15%" />
+
 <br>
 
+
+**Vac-Man** is a first-person atom collection and molecule builder where the player fly's around space to suck up atoms with a vacuum and deposit them to create nano-molecules.
+
+This was developed within **Unity** for a "Nano-Molecules in Space" themed Game Jam.
+
+For this project I focused on implementing the terminals menu navigation and the logic for the player upgrade system accessed via the terminal, where the players speed, capacity and atom multiplier could be upgraded.
+
+<div align="center">
 <table width="100%">
   <tr>
     <td width="33%" align="center">
@@ -465,11 +506,23 @@ The created animations were :
   </tr>
 </table>
 
-<br>
-<br>
-<br>
+</div>
+
 <br>
 
-## 📫 Connect with me
-* **Email:** [liam.hancox1992@gmail.com](mailto:liam.hancox1992@gmail.com)
-* **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+**Engine and Tools :** Unity, Blender and GIT
+
+
+
+<br>
+
+
+</div>
+</div>
+
+<div align="center">
+
+## Connect with me
+**Email:** [liam.hancox1992@gmail.com](mailto:liam.hancox1992@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)

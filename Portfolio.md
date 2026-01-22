@@ -411,7 +411,11 @@ The created animations were :
 
 <br>
 
-info here
+The idea behind **Bubbletro** was to create a blend of arcade action-puzzle and rogue-like deck builder where players have to shoot matching coloured bubbles to collect money to spend in-between rounds.
+
+This was developed as part of a five person team within **Unity** for the "Bubble" themed Global Game Jam 2025.
+
+During development I acted as a flexible team member, assisting with asset integration while performing playtests to identify bugs and balancing gameplay variables.
 
 <div align="center">
 <table width="75%">
@@ -424,6 +428,11 @@ info here
     </td>
   </tr>
 </table>
+</div>
+
+<br>
+
+**Engine and Tools :** Unity, GIT
 
 <br>
 <br>
@@ -510,7 +519,7 @@ For this project I focused on implementing the terminals menu navigation and the
 
 <br>
 
-**Engine and Tools :** Unity, Blender and GIT
+**Engine and Tools :** Unity, GIT
 
 
 
@@ -523,6 +532,14 @@ For this project I focused on implementing the terminals menu navigation and the
 <div align="center">
 
 ## Connect with me
-**Email:** [liam.hancox1992@gmail.com](mailto:liam.hancox1992@gmail.com)
 
-**LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+<div align="left">
+
+<br>
+
+
+If you have any further questions please do not hesitate to contact me via **Linkedin** or the E-mail Address linked below.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/liam-hancox"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:liam.hancox1992@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" height="40" /></a>

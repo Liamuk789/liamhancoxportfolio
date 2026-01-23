@@ -85,6 +85,21 @@ I am a 3rd year Computer Games Design and Development student at Cardiff Metropo
 
 <h1 align="center"> Projects </h1>
 
+</div>
+
+<br>
+
+# IsoGame [WIP Title] (2026)
+
+***IsoGame*** is a work in progress personal project being developed within Unreal Engine 5
+
+
+**Engine and Tools :** Unreal Engine 5, C++ Scripting, GIT, GIMP Image Editor
+
+<br>
+<br>
+<br>
+
 # Behind The Lens (2025)
 
 ***Behind the Lens*** is a first-person escape room where players solve puzzles by controlling security cameras and remote-controlled devices across multiple rooms. Built in **Unity** as part of a collaborative team project utilising **Git** for version control.
@@ -165,7 +180,7 @@ I am a 3rd year Computer Games Design and Development student at Cardiff Metropo
 </div>
 
 
-**Engine and Tools :** Unity, GIT, 3DSMax
+**Engine and Tools :** Unity, C# Scripting, GIT, 3DSMax
 
 ---
 
@@ -261,7 +276,7 @@ I am a 3rd year Computer Games Design and Development student at Cardiff Metropo
   </a>
 </p>
 
-**Engine and Tools :** Unity, GIT
+**Engine and Tools :** Unity, C# Scripting, GIT
 
 <br>
 
@@ -348,7 +363,7 @@ Developed within **Unity** as part of a 4 person team.
   </a>
 </p>
 
-**Engine and Tools :** Unity, GIT
+**Engine and Tools :** Unity, C# Scripting, GIT
 
 <br>
 
@@ -408,7 +423,7 @@ The created animations were :
 
 <br>
 
-**Engine and Tools :** Unity, Blender, GIT
+**Engine and Tools :** Unity, C# Scripting, Blender, GIT
 
 
 <br>
@@ -447,7 +462,7 @@ During development I acted as a flexible team member, assisting with asset integ
 
 <br>
 
-**Engine and Tools :** Unity, GIT
+**Engine and Tools :** Unity, C# Scripting, GIT
 
 <br>
 
@@ -493,7 +508,7 @@ During development I was tasked with asset selection and implementation of chara
 
 <br>
 
-**Engine and Tools :** Unity, GIT
+**Engine and Tools :** Unity, C# Scripting, GIT
 
 <br>
 
@@ -533,7 +548,7 @@ For this project I focused on implementing the terminals menu navigation and the
 
 <br>
 
-**Engine and Tools :** Unity, GIT
+**Engine and Tools :** Unity, C# Scripting, GIT
 
 
 

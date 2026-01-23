@@ -179,6 +179,7 @@ I am a 3rd year Computer Games Design and Development student at Cardiff Metropo
 
 </div>
 
+<br>
 
 **Engine and Tools :** Unity, C# Scripting, GIT, 3DSMax
 

@@ -7,7 +7,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/liam-hancox"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:liam.hancox1992@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" height="40" /></a>
+
 
 </div>
 
@@ -20,15 +20,27 @@
   
 </p>
 
+<br>
 
+I am a 3rd year Computer Games Design and Development student at Cardiff Metropolitan University. 
+<br>As a mature student, I bring a dedicated and professional approach to development, backed by hands-on experience in Unity and Unreal Engine.<br>My portfolio showcases my technical skills with Finite State Machines, physics-based controllers, and AI agents, demonstrating my ability to work across the entire pipeline—from solo prototyping to collaborating in Agile teams using Git.
+<br>Whether it's rigging animations in Blender, scripting AI in C#, or implementing UI logic, I love the challenge of bringing a game world to life.
 
-I am a 3rd year mature student studying Computer Games Design and Development at Cardiff Metropolitan University who is passionate about . 
+<br>
+<br>
+<div align="center">
 
-Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** and **Unity**.
+<h1 align="center"> Contact Info</h1>
 
-*  I’m currently working on:
+<a href="mailto:liam.hancox1992@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" height="40" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/liam-hancox">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="40" />
+</a>
 
----
+<br>
+<br>
 
 <h1 align="center">Languages and Tools</h1>
 
@@ -69,7 +81,7 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
 
 </div>
 
----
+
 
 <h1 align="center"> Projects </h1>
 
@@ -153,7 +165,7 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
 </div>
 
 
-**Engine and Tools :** Unity, GIT
+**Engine and Tools :** Unity, GIT, 3DSMax
 
 ---
 
@@ -244,7 +256,7 @@ Currently working on refining my skills in **C++**, **C#**, **Unreal Engine** an
 </div>
 
 <p align="center">
-  <a href="INSERT_LINK_HERE">
+  <a href="https://gist.github.com/Liamuk789/4698bcbc9d60408ea0b508c8f6330567">
     <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" width="30%" />
   </a>
 </p>
@@ -396,7 +408,7 @@ The created animations were :
 
 <br>
 
-**Engine and Tools :** Unity, Blender and GIT
+**Engine and Tools :** Unity, Blender, GIT
 
 
 <br>
@@ -416,7 +428,7 @@ The created animations were :
 
 The idea behind **Bubbletro** was to create a blend of arcade action-puzzle and rogue-like deck builder where players have to shoot matching coloured bubbles to collect money to spend in-between rounds.
 
-This was developed as part of a five person team within **Unity** for the "Bubble" themed Global Game Jam 2025.
+This was developed as part of a five person team within **Unity** for the *"Bubble"* themed Global Game Jam 2025.
 
 During development I acted as a flexible team member, assisting with asset integration while performing playtests to identify bugs and balancing gameplay variables.
 
@@ -454,7 +466,7 @@ During development I acted as a flexible team member, assisting with asset integ
 
 **Tickle Titans** is a third-person arena based Tickle-em-up where the player tickles and fire jokes at their opponent to make them laugh.
 
-This was developed as part of a seven person team using **Unity** for the "Make me laugh" themed Global Game Jam 2024 where we voted as the Institutional Group Winners.
+This was developed as part of a seven person team using **Unity** for the *"Make me laugh"* themed Global Game Jam 2024 where we voted as the Institutional Group Winners.
 
 During development I was tasked with asset selection and implementation of character animation.
 
@@ -498,7 +510,7 @@ During development I was tasked with asset selection and implementation of chara
 
 **Vac-Man** is a first-person atom collection and molecule builder where the player fly's around space to suck up atoms with a vacuum and deposit them to create nano-molecules.
 
-This was developed within **Unity** for a "Nano-Molecules in Space" themed Game Jam.
+This was developed within **Unity** for a *"Nano-Molecules in Space"* themed Game Jam.
 
 For this project I focused on implementing the terminals menu navigation and the logic for the player upgrade system accessed via the terminal, where the players speed, capacity and atom multiplier could be upgraded.
 
@@ -533,15 +545,18 @@ For this project I focused on implementing the terminals menu navigation and the
 
 <div align="center">
 
-## Connect with me
+<h1 align="center"> Contact Info </h1>
 
-<div align="left">
 
 <br>
 
+If you have any further questions please do not hesitate to contact me via the E-mail Address or **Linkedin** linked below.
 
-If you have any further questions please do not hesitate to contact me via **Linkedin** or the E-mail Address linked below.
+<br>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/liam-hancox"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:liam.hancox1992@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" height="40" /></a>
+<a href="mailto:liam.hancox1992@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" height="40" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/liam-hancox">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="40" />
+</a>

@@ -22,9 +22,7 @@
 
 <br>
 
-I am a 3rd year Computer Games Design and Development student at Cardiff Metropolitan University. 
-<br>As a mature student, I bring a dedicated and professional approach to development, backed by hands-on experience in Unity and Unreal Engine.<br>My portfolio showcases my technical skills with Finite State Machines, physics-based controllers, and AI agents, demonstrating my ability to work across the entire pipeline—from solo prototyping to collaborating in Agile teams using Git.
-<br>Whether it's rigging animations in Blender, scripting AI in C#, or implementing UI logic, I love the challenge of bringing a game world to life.
+I am a 3rd year Computer Games Design and Development student at Cardiff Metropolitan University. As a mature student, I bring a dedicated and professional approach to development, backed by hands-on experience in Unity and Unreal Engine. My portfolio showcases my technical skills with Finite State Machines, physics-based controllers, and AI agents, demonstrating my ability to work across the entire pipeline—from solo prototyping to collaborating in Agile teams using Git. Whether it's rigging animations in Blender, scripting AI in C#, or implementing UI logic, I love the challenge of bringing a game world to life.
 
 <br>
 <br>

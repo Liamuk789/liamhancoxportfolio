@@ -22,10 +22,11 @@
 
 <br>
 
-I am a 3rd year Computer Games Design and Development student at Cardiff Metropolitan University. As a mature student, I bring a dedicated and professional approach to development, backed by hands-on experience in Unity and Unreal Engine. My portfolio showcases my technical skills with Finite State Machines, physics-based controllers, and AI agents, demonstrating my ability to work across the entire pipeline—from solo prototyping to collaborating in Agile teams using Git. Whether it's rigging animations in Blender, scripting AI in C#, or implementing UI logic, I love the challenge of bringing a game world to life.
+I am a 3rd year Computer Games Design and Development student at Cardiff Metropolitan University interested in gameplay programming and systems architecture but mainly love the challenge of bringing a game and it's world to life. I have experience in both C# and C++ utilising them within the Unity and Unreal Engines. I enjoy collaborative environments and have taken part in several Game Jams (Global and University events), which have allowed me to adapt to different roles and tight deadlines. I'm always looking for new challenges and opportunities, so please get in touch if you have any questions.
 
 <br>
 <br>
+
 <div align="center">
 
 <h1 align="center"> Contact Info</h1>
@@ -35,6 +36,9 @@ I am a 3rd year Computer Games Design and Development student at Cardiff Metropo
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/liam-hancox">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="40" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Liamuk789">
+  <img src="https://img.shields.io/badge/GitHub-Link-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
 </a>
 
 <br>
@@ -87,16 +91,91 @@ I am a 3rd year Computer Games Design and Development student at Cardiff Metropo
 
 <br>
 
-# IsoGame [WIP Title] (2026)
+# IsoGame [WIP Title] (Level Generation) (2026)
 
-***IsoGame*** is a work in progress personal project being developed within Unreal Engine 5
+***IsoGame*** is a solo-developed top-down isometric action RPG roguelite built in Unreal Engine 5. I am currently building out the procedural level generator, tackling the challenges of map layout and tile connections.
 
+
+<div align="center">
+  <table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="Images/IsoGame/CornerTile.png" alt="Corner Tile" width="50%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/IsoGame/CrossroadsTile.png" alt="Crossroads Tile" width="50%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/IsoGame/CorridorTile.png" alt="Corridor Tile" width="50%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <img src="Images/IsoGame/LevelGen1.png" alt="Level Gen Example 1" width="90%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/IsoGame/LevelGen2.png" alt="Level Gen Example 2" width="90%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/IsoGame/LevelGen3.png" alt="Level Gen Example 3" width="90%" />
+    </td>
+  </tr>
+  </table>
+
+  <br>
+
+<h2 align="center">Key Features</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th width="33%">
+        <div align="center">Level Generator</div>
+    </th>
+    <th width="33%">
+        <div align="center">Tile</div>
+    </th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><b>Heuristic Pathfinding:</b> Currently using a weighted algorithm to steer generation towards the exit while creating non-linear layouts</li>
+        <li><b>Spatial Hashing:</b> Hash Map used to generate unique ID's for every Tiles location allowing for quicker collision checks</li>
+        <b>Dead End Capping:</b> Logic to identify and cap open/unused sockets within the grid coordinate space.</li>
+      </ul>
+    </td>
+    <td valign="top" >
+      <ul>
+        <li><b>UArrowComponents:</b> Used as the connectors/doorways of each tile</li>
+        <li><b>Socket Tags:</b> Tags applied to arrows for identification for level generator</li>
+        <li><b>Image Editing:</b> Placeholder textures created in GIMP</li>
+      </ul>
+    </td>
+    
+  </tr>
+</table>
+
+</div>
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+<a href="https://gist.github.com/Liamuk789/2a0a68fd6a926fd9c62a6fe1925f03dd">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" width="30%" />
+</a>
+</div>
+
+<br>
 
 **Engine and Tools :** Unreal Engine 5, C++ Scripting, GIT, GIMP Image Editor
 
+---
 <br>
-<br>
-<br>
+
 
 # Behind The Lens (2025)
 

@@ -140,16 +140,16 @@ I am a 3rd year Computer Games Design and Development student at Cardiff Metropo
   <tr>
     <td valign="top">
       <ul>
-        <li><b>Heuristic Pathfinding:</b> Currently using a weighted algorithm to steer generation towards the exit while creating non-linear layouts</li>
-        <li><b>Spatial Hashing:</b> Hash Map used to generate unique ID's for every Tiles location allowing for quicker collision checks</li>
-        <b>Dead End Capping:</b> Logic to identify and cap open/unused sockets within the grid coordinate space.</li>
+        <li><b>Heuristic Pathfinding:</b> Currently using a weighted algorithm to steer generation towards the exit while creating non-linear layouts.</li>
+        <li><b>Spatial Hashing:</b> Hash Map used to generate unique ID's for every Tiles location allowing for quicker collision checks.</li>
+        <li><b>Dead End Capping:</b> Logic to identify and cap open/unused sockets within the grid coordinate space.</li>
       </ul>
     </td>
     <td valign="top" >
       <ul>
-        <li><b>UArrowComponents:</b> Used as the connectors/doorways of each tile</li>
-        <li><b>Socket Tags:</b> Tags applied to arrows for identification for level generator</li>
-        <li><b>Image Editing:</b> Placeholder textures created in GIMP</li>
+        <li><b>UArrowComponents:</b> Used as the connectors/doorways of each tile.</li>
+        <li><b>Socket Tags:</b> Tags applied to arrows for identification for level generator.</li>
+        <li><b>Image Editing:</b> Placeholder textures created in GIMP.</li>
       </ul>
     </td>
     
@@ -224,25 +224,25 @@ I am a 3rd year Computer Games Design and Development student at Cardiff Metropo
   <tr>
     <td valign="top">
       <ul>
-        <li><b>State-Driven Management:</b> Handling of active/inactive states for multiple camera feeds</li>
-        <li><b>Camera Switching:</b> Transition logic between security cameras, devices and player</li>
-        <li><b>Faux Live-Feed:</b> Enabling and disabling of camera feeds with capture of last frame to simulate multiple live camera feeds</li>
+        <li><b>State-Driven Management:</b> Handling of active/inactive states for multiple camera feeds.</li>
+        <li><b>Camera Switching:</b> Transition logic between security cameras, devices and player.</li>
+        <li><b>Faux Live-Feed:</b> Enabling and disabling of camera feeds with capture of last frame to simulate multiple live camera feeds.</li>
         <li><b>Interactivity:</b> Raycasts to give the ability to interact with various elements of the game world.</li>
       </ul>
     </td>
     <td valign="top" >
       <ul>
-        <li><b>Diegetic Monitors:</b> In world screens dynamically update based on state (Online, Offline and Active)</li>
-        <li><b>Contextual HUD:</b> Camera feed information updates to current camera</li>
-        <li><b>Dynamic crosshair:</b> Visual feedback when hovering over interactive game objects</li>
+        <li><b>Diegetic Monitors:</b> In world screens dynamically update based on state (Online, Offline and Active).</li>
+        <li><b>Contextual HUD:</b> Camera feed information updates to current camera.</li>
+        <li><b>Dynamic crosshair:</b> Visual feedback when hovering over interactive game objects.</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>Physics Based Vehicle Controller:</b> Rigidbody based movement</li>
-        <li><b>Possession System:</b> Camera transition and control handover from camera to device</li>
-        <li><b>Input Isolation:</b> State-machine logic to prevent input leaking </li>
-        <li><b>Asset Creation:</b> Model for RC-Car created in 3DSMax</li>
+        <li><b>Physics Based Vehicle Controller:</b> Rigidbody based movement.</li>
+        <li><b>Possession System:</b> Camera transition and control handover from camera to device.</li>
+        <li><b>Input Isolation:</b> State-machine logic to prevent input leaking.</li>
+        <li><b>Asset Creation:</b> Model for RC-Car created in 3DSMax.</li>
       </ul>
     </td>
   </tr>
